@@ -1,23 +1,45 @@
 # 50-basic-command-line-linux
 
+1. **cd**  
+   Berpindah direktori.
 <img width="725" height="511" alt="Screenshot 2025-09-15 184935" src="https://github.com/user-attachments/assets/192d56f5-02b2-48e7-9e61-0350e7e136f4" />
 
+2. **ls**  
+   Melihat daftar file/direktori dalam folder.
 <img width="1102" height="360" alt="Screenshot 2025-09-12 090706" src="https://github.com/user-attachments/assets/7cd53285-a89a-4771-867a-a0907613c6fb" />
 
+3. **ifconfig**  
+    Menampilkan atau mengkonfigurasi jaringan.
 <img width="1095" height="507" alt="Screenshot 2025-09-12 090737" src="https://github.com/user-attachments/assets/19dce058-f43b-40a2-9fa7-887abf6fb165" />
 
+4. **ip a**  
+    Menampilkan informasi jaringan modern (pengganti ifconfig).
 <img width="1102" height="443" alt="Screenshot 2025-09-12 090817" src="https://github.com/user-attachments/assets/7836b0d1-a677-4c90-b6cf-7f590ec2713e" />
 
+5. **mkdir**  
+   Membuat direktori baru.
 <img width="1106" height="314" alt="Screenshot 2025-09-12 090857" src="https://github.com/user-attachments/assets/4e954f05-d701-4b14-b252-3eddc176a911" />
 
+6. **sudo su**  
+    Mengubah user saat ini menjadi **root** (superuser) dan tetap berada di dalam shell login root.  
+    > Contoh: `sudo su` → masuk ke root shell dengan seluruh environment root.
 <img width="1108" height="267" alt="Screenshot 2025-09-12 091348" src="https://github.com/user-attachments/assets/633bf9ec-f11d-4972-a6ec-25fe886e9449" />
 
+7. **sudo -**  
+    Masuk ke shell **root login penuh** seolah-olah login langsung sebagai root, dengan semua konfigurasi environment root.  
+    > Contoh: `sudo -` → langsung berada di lingkungan root seperti saat login sebagai root. 
 <img width="1105" height="252" alt="Screenshot 2025-09-12 091446" src="https://github.com/user-attachments/assets/ba97f6f3-8f8f-42de-a7c1-61a9effebddc" />
 
+8. **date**  
+    Menampilkan atau mengatur tanggal/waktu.
 <img width="1103" height="259" alt="Screenshot 2025-09-12 091537" src="https://github.com/user-attachments/assets/0763f334-20e6-4fa0-941e-f9e7a8d9dd61" />
 
+9. **uptime**  
+    Menampilkan lama waktu sistem berjalan.
 <img width="1097" height="244" alt="Screenshot 2025-09-12 091555" src="https://github.com/user-attachments/assets/281bb653-342b-4296-983c-0432c2839dd4" />
 
+10. **whoami**  
+    Menampilkan username pengguna saat ini.
 <img width="1098" height="254" alt="Screenshot 2025-09-12 091704" src="https://github.com/user-attachments/assets/8703b9a7-ebee-4612-8890-42244af935db" />
 
 <img width="1122" height="279" alt="Screenshot 2025-09-12 091927" src="https://github.com/user-attachments/assets/2e15d53e-f5fb-4857-a3ec-ebefb1c324f4" />
