@@ -42,8 +42,14 @@
     Menampilkan username pengguna saat ini.
 <img width="1098" height="254" alt="Screenshot 2025-09-12 091704" src="https://github.com/user-attachments/assets/8703b9a7-ebee-4612-8890-42244af935db" />
 
+11. **who**  
+    Menampilkan daftar user yang sedang login di sistem.  
+    > Contoh: `who` → hasilnya bisa berupa daftar username, terminal, dan waktu login.
 <img width="1122" height="279" alt="Screenshot 2025-09-12 091927" src="https://github.com/user-attachments/assets/2e15d53e-f5fb-4857-a3ec-ebefb1c324f4" />
 
+12. **w**  
+    Menampilkan daftar user yang sedang login beserta aktivitas/proses yang sedang mereka jalankan.  
+    > Contoh: `w`
 <img width="1101" height="305" alt="Screenshot 2025-09-12 091941" src="https://github.com/user-attachments/assets/3db7adf7-6db6-45ab-aece-2ae777ab349c" />
 
 <img width="1096" height="260" alt="Screenshot 2025-09-12 092008" src="https://github.com/user-attachments/assets/71159626-730d-4df6-b02e-0949515f5c61" />
