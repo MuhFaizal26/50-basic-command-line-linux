@@ -151,19 +151,41 @@
     Menampilkan beberapa baris awal dari file.
 <img width="750" height="543" alt="Screenshot 2025-09-15 194317" src="https://github.com/user-attachments/assets/26a76530-b4a3-487f-89d6-de32bd10e4a0" />
 
-
+34. **uname**  
+    Menampilkan informasi sistem operasi.
 <img width="741" height="509" alt="Screenshot 2025-09-15 194332" src="https://github.com/user-attachments/assets/d8ac48b5-6f8e-4bbc-801b-d62326d9fb06" />
 
+35. **uname -a**  
+    Menampilkan informasi lengkap tentang sistem operasi, termasuk kernel name, hostname, release, versi, dan arsitek
 <img width="757" height="525" alt="Screenshot 2025-09-15 194401" src="https://github.com/user-attachments/assets/111b1aa3-2194-4bc5-b9bf-562399ddd85a" />
 
+36. **cat file | grep 4**  
+    Menampilkan isi file lalu memfilter hanya baris yang mengandung angka/teks "4".  
+    - `cat file` → membaca isi file.  
+    - `grep 4` → mencari baris yang mengandung karakter "4".  
+    > Contoh: `cat data.txt | grep 4` → hanya menampilkan baris dalam *data.txt* yang ada angka 4.
 <img width="765" height="544" alt="Screenshot 2025-09-15 194553" src="https://github.com/user-attachments/assets/a631f09d-0689-4dcf-b142-e54803d90f25" />
 
+37. **ping 8.8.8.8**  
+    Mengecek konektivitas jaringan ke server DNS publik Google (8.8.8.8). Perintah ini juga menampilkan waktu respon (latency) dari host tujuan.  
+    > Contoh: `ping 8.8.8.8`  
+    Tekan `Ctrl + C` untuk menghentikan proses ping.
 <img width="734" height="584" alt="Screenshot 2025-09-15 194641" src="https://github.com/user-attachments/assets/96b43860-7305-4780-8ab5-29613b544686" />
 
+38. **free**  
+    Menampilkan informasi penggunaan memori (RAM dan swap) pada sistem. Biasanya digunakan untuk memantau ketersediaan memori.  
+    > Contoh:  
+    > - `free` → menampilkan dalam satuan kilobyte.  
+    > - `free -m` → menampilkan dalam satuan megabyte.  
+    > - `free -h` → menampilkan dengan format human-readable.
 <img width="748" height="509" alt="Screenshot 2025-09-15 195208" src="https://github.com/user-attachments/assets/550a8fa7-90cb-481b-ae32-57079743d6d9" />
 
+39. **top**  
+    Menampilkan proses yang sedang berjalan (real time).
 <img width="771" height="502" alt="Screenshot 2025-09-15 195241" src="https://github.com/user-attachments/assets/8900bced-81f7-478e-9fa0-905895d7bed5" />
 
+40. **du**  
+    Menampilkan ukuran file/direktori.
 <img width="731" height="519" alt="Screenshot 2025-09-15 195348" src="https://github.com/user-attachments/assets/78c2efc2-815f-48cc-9f0d-6bc43ef0ba38" />
 
 <img width="741" height="524" alt="Screenshot 2025-09-15 195441" src="https://github.com/user-attachments/assets/7b275619-fdd8-4bff-97c5-08446bcf0b98" />
