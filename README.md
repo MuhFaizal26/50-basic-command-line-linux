@@ -82,34 +82,75 @@
    Memindahkan atau mengganti nama file/direktori.
 <img width="790" height="312" alt="Screenshot 2025-09-15 185706" src="https://github.com/user-attachments/assets/300deefd-b1ea-4fa4-b333-e59179742748" />
 
-
+20. **rm -rf**
+    
+    Command ini digunakan untuk menghapus file maupun direktori **secara permanen** tanpa masuk     ke *trash* atau *recycle bin*.
 <img width="759" height="255" alt="Screenshot 2025-09-15 185757" src="https://github.com/user-attachments/assets/199c3cb4-f720-47df-bc68-e40c55379b0a" />
 
+21. **cd /home/student**
+    
+    Pindah ke /home/student (path absolut)
 <img width="741" height="525" alt="Screenshot 2025-09-15 185935" src="https://github.com/user-attachments/assets/cb4c52f6-014a-4228-8e06-364f47e6144a" />
 
+22. **pwd**  
+   Menampilkan direktori kerja saat ini (print working directory).
 <img width="749" height="513" alt="Screenshot 2025-09-15 190207" src="https://github.com/user-attachments/assets/d3dc2ede-cc4a-415d-9716-a6c00844e810" />
 
+23. **clear**  
+    Membersihkan tampilan terminal.
 <img width="758" height="520" alt="Screenshot 2025-09-15 190430" src="https://github.com/user-attachments/assets/cee41163-cb36-49ab-9bb5-bc65e4c14d1e" />
+
+24. **passwd**  
+    Mengubah password user. Jika dijalankan tanpa opsi, maka akan mengubah password user yang sedang login.  
+    > Contoh:  
+    > - `passwd` → mengganti password user aktif.  
+    > - `sudo passwd username` → mengganti password user lain (butuh hak akses root).
 
 <img width="690" height="416" alt="Screenshot 2025-09-15 190627" src="https://github.com/user-attachments/assets/740cf6b3-5052-48d4-89fc-eb5739278a5f" />
 
+25. **date && uptime**  
+    Menjalankan dua perintah sekaligus: menampilkan tanggal/waktu saat ini lalu menampilkan lama sistem berjalan.  
+    > Contoh: `date && uptime`
 <img width="718" height="527" alt="Screenshot 2025-09-15 190841" src="https://github.com/user-attachments/assets/274ccd8d-5605-4998-9342-eb68eb703c60" />
 
+26. **date +%S**  
+    Menampilkan detik saat ini (0–59) dari waktu sistem.  
+    > Contoh: `date +%S`
 <img width="723" height="514" alt="Screenshot 2025-09-15 191716" src="https://github.com/user-attachments/assets/9826d27b-cb09-4842-aae6-df4dc7d86afa" />
 
+27. **date +%F**  
+    Menampilkan tanggal dengan format standar (YYYY-MM-DD).  
+    > Contoh: `date +%F` → `2025-09-15`
 <img width="706" height="506" alt="Screenshot 2025-09-15 191809" src="https://github.com/user-attachments/assets/8e6d691e-29a1-428e-89af-c84a4e8dae0d" />
 
+28. **ls -l**  
+    Menampilkan daftar file/direktori dalam format panjang (long listing), termasuk permission, owner, group, ukuran, dan waktu modifikasi.  
+    > Contoh: `ls -l`
 <img width="729" height="521" alt="Screenshot 2025-09-15 192254" src="https://github.com/user-attachments/assets/7b2ac8ce-bc1a-4379-9496-3a851fdb0caf" />
 
+29. **chmod 777**  
+    Mengatur permission file menjadi full akses (read, write, execute) untuk **owner, group, dan others**.  
+    > Contoh: `chmod 777 file.txt`
 <img width="743" height="516" alt="Screenshot 2025-09-15 192602" src="https://github.com/user-attachments/assets/a08fa79b-dc70-40b3-92e6-2e4918334055" />
 
+30. **chmod 444**  
+    Mengatur permission file menjadi read-only untuk semua user.  
+    > Contoh: `chmod 444 file.txt`
 <img width="723" height="509" alt="Screenshot 2025-09-15 192643" src="https://github.com/user-attachments/assets/11f371c7-f189-4c86-a2fb-979c03723e99" />
 
+31. **chmod 555**  
+    Mengatur permission file menjadi read & execute (tanpa write) untuk semua user.  
+    > Contoh: `chmod 555 script.sh`
 <img width="733" height="515" alt="Screenshot 2025-09-15 192720" src="https://github.com/user-attachments/assets/582f6659-6130-45b2-b3a9-8e42cf959d65" />
 
+32. **tail**  
+    Menampilkan beberapa baris akhir dari file.
 <img width="744" height="524" alt="Screenshot 2025-09-15 193245" src="https://github.com/user-attachments/assets/7ddd9db8-9d1c-44ff-b53f-b98380e4ac4e" />
 
+33. **head**  
+    Menampilkan beberapa baris awal dari file.
 <img width="750" height="543" alt="Screenshot 2025-09-15 194317" src="https://github.com/user-attachments/assets/26a76530-b4a3-487f-89d6-de32bd10e4a0" />
+
 
 <img width="741" height="509" alt="Screenshot 2025-09-15 194332" src="https://github.com/user-attachments/assets/d8ac48b5-6f8e-4bbc-801b-d62326d9fb06" />
 
