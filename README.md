@@ -1,5 +1,9 @@
 # 50-basic-command-line-linux
 
+#  Muhammad Faizal Mirzah
+# 09011382429122
+# Sistem Operasi
+
 1. **cd**  
    Berpindah direktori.
 <img width="725" height="511" alt="Screenshot 2025-09-15 184935" src="https://github.com/user-attachments/assets/192d56f5-02b2-48e7-9e61-0350e7e136f4" />
