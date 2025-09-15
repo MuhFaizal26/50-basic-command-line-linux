@@ -1,4 +1,7 @@
-<img width="725" height="511" alt="Screenshot 2025-09-15 184935" src="https://github.com/user-attachments/assets/192d56f5-02b2-48e7-9e61-0350e7e136f4" /># 50-basic-command-line-linux
+# 50-basic-command-line-linux
+
+<img width="725" height="511" alt="Screenshot 2025-09-15 184935" src="https://github.com/user-attachments/assets/192d56f5-02b2-48e7-9e61-0350e7e136f4" />
+
 <img width="1102" height="360" alt="Screenshot 2025-09-12 090706" src="https://github.com/user-attachments/assets/7cd53285-a89a-4771-867a-a0907613c6fb" />
 
 <img width="1095" height="507" alt="Screenshot 2025-09-12 090737" src="https://github.com/user-attachments/assets/19dce058-f43b-40a2-9fa7-887abf6fb165" />
