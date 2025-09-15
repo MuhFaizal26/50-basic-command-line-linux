@@ -52,21 +52,36 @@
     > Contoh: `w`
 <img width="1101" height="305" alt="Screenshot 2025-09-12 091941" src="https://github.com/user-attachments/assets/3db7adf7-6db6-45ab-aece-2ae777ab349c" />
 
+13. **users**  
+    Menampilkan username semua user yang sedang login (ringkas, tanpa detail waktu/aktivitas).  
+    > Contoh: `users`
 <img width="1096" height="260" alt="Screenshot 2025-09-12 092008" src="https://github.com/user-attachments/assets/71159626-730d-4df6-b02e-0949515f5c61" />
 
+14. **rmdir**  
+   Menghapus direktori kosong.
 <img width="740" height="529" alt="Screenshot 2025-09-15 184811" src="https://github.com/user-attachments/assets/a737e059-5295-4e3a-82a2-3bc4dd244ac0" />
 
-<img width="725" height="511" alt="Screenshot 2025-09-15 184935" src="https://github.com/user-attachments/assets/94e9391a-fce3-4294-a692-0e810ccf1ba0" />
-
+15. **nano**  
+    Membuka text editor berbasis terminal untuk membuat atau mengedit file.  
+    > Contoh: `nano file.txt` → membuka atau membuat file.txt di editor nano.
 <img width="725" height="512" alt="Screenshot 2025-09-15 185037" src="https://github.com/user-attachments/assets/176cf3ec-2524-4fd1-a010-c133b8953567" />
 
+16. **cat**  
+   Menampilkan isi file.
 <img width="726" height="506" alt="Screenshot 2025-09-15 185104" src="https://github.com/user-attachments/assets/5562a26d-e625-4ef5-a3ee-5d4a36ff0c56" />
 
+17. **rm**  
+    Menghapus file atau direktori.
 <img width="734" height="504" alt="Screenshot 2025-09-15 185156" src="https://github.com/user-attachments/assets/bc470122-1a42-46d7-aa4f-a1f8337068dd" />
 
+18. **cp**  
+   Menyalin file atau direktori.
 <img width="713" height="519" alt="Screenshot 2025-09-15 185439" src="https://github.com/user-attachments/assets/6d616c58-9b13-4cfc-93e9-59c88c69a25c" />
 
+19. **mv**  
+   Memindahkan atau mengganti nama file/direktori.
 <img width="790" height="312" alt="Screenshot 2025-09-15 185706" src="https://github.com/user-attachments/assets/300deefd-b1ea-4fa4-b333-e59179742748" />
+
 
 <img width="759" height="255" alt="Screenshot 2025-09-15 185757" src="https://github.com/user-attachments/assets/199c3cb4-f720-47df-bc68-e40c55379b0a" />
 
