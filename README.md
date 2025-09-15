@@ -1,8 +1,17 @@
 # 50-basic-command-line-linux
 
-#  Muhammad Faizal Mirzah
-# 09011382429122
-# Sistem Operasi
+# 🖥️ Sistem Operasi
+
+## 👤 Identitas
+- **Nama**  : Muhammad Faizal Mirzah  
+- **NIM**   : 09011382429122  
+- **Mata Kuliah** : Sistem Operasi  
+
+---
+
+## 📂 Deskripsi
+Repository ini berisi dokumentasi, catatan, serta hasil praktikum mata kuliah **Sistem Operasi**.  
+Setiap command Linux yang digunakan akan dijelaskan beserta fungsi dan contohnya agar mudah dipahami.
 
 1. **cd**  
    Berpindah direktori.
