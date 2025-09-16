@@ -201,25 +201,60 @@ Setiap command Linux yang digunakan akan dijelaskan beserta fungsi dan contohnya
     Menampilkan ukuran file/direktori.
 <img width="731" height="519" alt="Screenshot 2025-09-15 195348" src="https://github.com/user-attachments/assets/78c2efc2-815f-48cc-9f0d-6bc43ef0ba38" />
 
-<img width="741" height="524" alt="Screenshot 2025-09-15 195441" src="https://github.com/user-attachments/assets/7b275619-fdd8-4bff-97c5-08446bcf0b98" />
+41. **ls /bin**  
+    Menampilkan daftar semua program biner (executable) yang ada di direktori `/bin`. Direktori ini biasanya berisi command dasar Linux yang bisa dijalankan oleh semua user.  
+    > Contoh: `ls /bin`
+<img width="746" height="546" alt="Screenshot 2025-09-16 073715" src="https://github.com/user-attachments/assets/52000298-b3fe-4015-a3e5-c1ce0b1b4a04" />
 
+42. **find**  
+    Mencari file/direktori dengan kriteria tertentu.
 <img width="732" height="523" alt="Screenshot 2025-09-15 195535" src="https://github.com/user-attachments/assets/092b2e06-67b4-4b9b-a4bc-cec572c7121e" />
+
+43. **touch**  
+    Membuat file kosong baru atau memperbarui timestamp (akses & modifikasi) pada file yang sudah ada.  
+    > Contoh:  
+    > - `touch file.txt` → membuat file baru bernama *file.txt* (jika belum ada).  
+    > - `touch file1 file2` → membuat beberapa file sekaligus.  
+    > - `touch -c file.txt` → hanya memperbarui timestamp tanpa membuat file baru.
 
 <img width="745" height="522" alt="Screenshot 2025-09-15 195641" src="https://github.com/user-attachments/assets/fdd848c0-f544-4f85-9d38-358f0fea6285" />
 
+44. **wget**  
+    Mengunduh file dari internet melalui HTTP, HTTPS, atau FTP langsung dari terminal.  
+    > Contoh:  
+    > - `wget https://example.com/file.zip` → mengunduh file.zip dari server.  
+    > - `wget -c https://example.com/file.zip` → melanjutkan unduhan yang terputus (continue)
 <img width="746" height="526" alt="Screenshot 2025-09-15 200049" src="https://github.com/user-attachments/assets/d84f78ea-392e-4d22-b3ff-9e2ce0929e71" />
 
+45. **history**  
+    Menampilkan riwayat command yang pernah dijalankan.
 <img width="742" height="517" alt="Screenshot 2025-09-15 200212" src="https://github.com/user-attachments/assets/e1f7a00e-10dd-4dce-9c6c-3886d08baaac" />
 
+46. **free -h**  
+    Menampilkan informasi penggunaan memori (RAM dan swap) dalam format *human-readable* (otomatis menggunakan satuan KB, MB, GB).  
+    > Contoh: `free -h`
 <img width="745" height="508" alt="Screenshot 2025-09-15 200256" src="https://github.com/user-attachments/assets/d7f87fbc-987c-4c90-a41b-a0cd66bef317" />
 
+47. **cal**  
+    Menampilkan kalender.
 <img width="721" height="521" alt="Screenshot 2025-09-15 200328" src="https://github.com/user-attachments/assets/b74d92b0-8992-4306-9ccb-91c43ba829d1" />
+
+48. **hostname**  
+    Menampilkan nama host (nama komputer) dari sistem. Bisa juga digunakan untuk mengatur hostname baru.  
+    > Contoh:  
+    > - `hostname` → menampilkan nama host saat ini.  
+    > - `sudo hostname server1` → mengganti nama host menjadi *server1*.  
 
 <img width="721" height="516" alt="Screenshot 2025-09-15 200633" src="https://github.com/user-attachments/assets/38c4037a-02c6-477e-8e63-8a54618296e1" />
 
+49. **uname -a**  
+    Menampilkan informasi lengkap tentang sistem operasi, termasuk kernel name, hostname, release, versi, dan arsitektur.  
+    > Contoh: `uname -a`
 <img width="751" height="517" alt="Screenshot 2025-09-15 200705" src="https://github.com/user-attachments/assets/24bb5aa7-7e37-4d3c-8990-2140d5ca80ac" />
 
-
+50. **exit**  
+    Keluar dari shell/terminal.
+    
 
 
 
