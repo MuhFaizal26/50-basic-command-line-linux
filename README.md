@@ -254,7 +254,8 @@ Setiap command Linux yang digunakan akan dijelaskan beserta fungsi dan contohnya
 
 50. **exit**  
     Keluar dari shell/terminal.
-    
+ <img width="733" height="525" alt="Screenshot 2025-09-16 075842" src="https://github.com/user-attachments/assets/6d07638c-14a5-4fda-b954-cbae3fc7694e" />
+   
 
 
 
